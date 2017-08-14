@@ -1,4 +1,4 @@
-SOURCE='http://jiyang3.web.engr.illinois.edu/data/'
+SOURCE='http://lbai5.web.engr.illinois.edu/data/'
 mkdir data
 mkdir data/gowalla
 cd data
