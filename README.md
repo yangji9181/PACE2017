@@ -3,7 +3,7 @@ A step-by-step Keras implementation of PACE (Preference And Context Embedding) d
 
 Please cite the following work.
 
-Carl Yang, Lanxiao Bai, Chao Zhang,  Quan Yuan and Jiawei Han. 2017. Bridging Collaborative Filtering and Semi-Supervised Learning: A Neural Approach for POI Recommendation. In Proceedings of KDD ?17, Halifax, NS, Canada, August 13-17, 2017, 10 pages.
+Carl Yang, Lanxiao Bai, Chao Zhang,  Quan Yuan and Jiawei Han. 2017. Bridging Collaborative Filtering and Semi-Supervised Learning: A Neural Approach for POI Recommendation. In Proceedings of KDD17, Halifax, NS, Canada, August 13-17, 2017, 10 pages.
 
 ## Usage:
 * Use `bash download_data.sh` to download the Gowalla data or visit Yelp to download the Yelp data.
