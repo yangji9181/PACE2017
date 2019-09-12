@@ -1,11 +1,21 @@
-# PACE
-A step-by-step Keras implementation of PACE (Preference And Context Embedding) described in our KDD 2017 paper. To run the code, you need to have Python 3 and iPython Notebook installed.
+## Implementation of *PACE*, KDD 2017.
 
-Please cite the following work.
+Please cite the following work if you find the code useful.
 
-Carl Yang, Lanxiao Bai, Chao Zhang,  Quan Yuan and Jiawei Han. 2017. Bridging Collaborative Filtering and Semi-Supervised Learning: A Neural Approach for POI Recommendation. In Proceedings of KDD17, Halifax, NS, Canada, August 13-17, 2017, 10 pages.
+```
+@inproceedings{yang2017bridging,
+	Author = {Yang, Carl and Bai, Lanxiao and Zhang, Chao and Yuan, Quan and Han, Jiawei},
+	Booktitle = {KDD},
+	Title = {Bridging collaborative filtering and semi-supervised learning: a neural approach for poi recommendation},
+	Year = {2017}
+}
+```
+
+Contact: Carl Yang (yangji9181@gmail.com)
 
 ## Usage:
+To run the code, you need to have Python3 and iPython Notebook installed.
+
 * Visit `https://snap.stanford.edu/data/loc-gowalla.html` or `https://www.yelp.com/dataset/challenge` to download the Gowalla or Yelp datasets. Please refer to `dataset.py` the paper for data preprocessing.
 * Start iPython Notebook Server `ipython3 notebook` and sequentially run cells in `train.ipynb`
 
